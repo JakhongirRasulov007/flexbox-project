@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/flexbox-project/static/css/main.5ecd60fb.chunk.css",
+    "main.js": "/flexbox-project/static/js/main.4f47db89.chunk.js",
+    "main.js.map": "/flexbox-project/static/js/main.4f47db89.chunk.js.map",
+    "runtime-main.js": "/flexbox-project/static/js/runtime-main.a56d417e.js",
+    "runtime-main.js.map": "/flexbox-project/static/js/runtime-main.a56d417e.js.map",
+    "static/js/2.725825fb.chunk.js": "/flexbox-project/static/js/2.725825fb.chunk.js",
+    "static/js/2.725825fb.chunk.js.map": "/flexbox-project/static/js/2.725825fb.chunk.js.map",
+    "index.html": "/flexbox-project/index.html",
+    "precache-manifest.489bb8c47021abb47a26843ef1bbdac1.js": "/flexbox-project/precache-manifest.489bb8c47021abb47a26843ef1bbdac1.js",
+    "service-worker.js": "/flexbox-project/service-worker.js",
+    "static/css/main.5ecd60fb.chunk.css.map": "/flexbox-project/static/css/main.5ecd60fb.chunk.css.map",
+    "static/js/2.725825fb.chunk.js.LICENSE.txt": "/flexbox-project/static/js/2.725825fb.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a56d417e.js",
+    "static/js/2.725825fb.chunk.js",
+    "static/css/main.5ecd60fb.chunk.css",
+    "static/js/main.4f47db89.chunk.js"
+  ]
+}

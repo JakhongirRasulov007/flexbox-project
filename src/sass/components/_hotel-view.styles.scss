@@ -1,0 +1,61 @@
+.hotel-view{
+
+}
+
+.gallery{
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    align-items: flex-start;
+    &__item{
+       // width: 33.33333%;
+
+    }
+    &__photo{
+        width: 100%;
+        display: block;
+    }
+
+}
+
+.overview{
+
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+
+    &-heading{
+
+    }
+
+    &-stars{
+        display: flex;
+        flex-direction: row;
+        align-items: center;
+        margin-right: auto;
+
+    }
+    &__icon-star{
+      width: 1.5rem;
+      height: 1.5rem;
+      fill: var(--color-primary);
+    }
+    &__location{
+       
+    }
+    &__icon-location{
+        width: 1.5rem;
+        height: 1.5rem;
+        fill: var(--color-primary);
+    }
+    &__rating-average{
+
+    }
+    &__rating-count{
+
+    }
+}
+
+.btn-inline{
+
+}

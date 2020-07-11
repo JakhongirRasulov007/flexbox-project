@@ -5,6 +5,12 @@
     background-color: var(--color-grey-light-1);
     min-height: 30rem;
     box-shadow: var(--shadow-dark);
+
+    @media only screen and (max-width: $bp-largest){
+        background-color: white;
+        margin: 0;
+        max-width: 100%;
+    }
 }
 
 
@@ -12,6 +18,10 @@
 .content{
     display: flex;
     flex-direction: row;
+
+    @media only screen and (max-width:$bp-medium){
+        flex-direction: column;
+    }
 
 }
 

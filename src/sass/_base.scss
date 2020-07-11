@@ -18,6 +18,13 @@
      --shadow-dark: 0 1rem 2rem rgba(0,0,0, 0.3);
 }
 
+$bp-largest: 56.25em; // 900 px
+$bp-large: 52.5em; // 840px
+$bp-medium:39em; // 625px
+$bp-small:31.25em; // 500px
+
+
+
 *{ // this is universay selector
 
     margin: 0;
@@ -33,6 +40,9 @@ html{
     box-sizing: border-box;  // is used to avoid adding padding, and border to actual content size
     font-size: 62.5%;          // this is 10px, because browser default font-size is 16px, 
                                 // it is handy to use rem, since 1rem is equal to root's font-size
+    @media only screen and (max-width:$bp-large){
+        font-size: 50%;
+    }
 }
 
 body{

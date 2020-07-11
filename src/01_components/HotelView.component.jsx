@@ -125,7 +125,19 @@ const HoteView = () => {
                     </figure>
                     <button className="btn-inline">show all <span>&rarr;</span></button>
                 </div>
+              
             </div>
+
+            <div className="cta">
+                <h2 className="cta__book-now">
+                     amazing news. we have 4 rooms available.
+                </h2>
+                <button className="cta__btn">
+                    <span className="cta__btn-visible">book now</span>
+                    <span className="cta__btn-invisible">only 4 rooms left</span>
+                </button>
+            </div>
+
         </main>
     )
 }

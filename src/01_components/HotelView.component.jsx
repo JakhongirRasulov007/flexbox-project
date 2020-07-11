@@ -7,6 +7,8 @@ import user3 from "../img/user-3.jpg";
 import user4 from "../img/user-4.jpg";
 import user5 from "../img/user-5.jpg";
 import user6 from "../img/user-6.jpg";
+import user1 from "../img/user-1.jpg";
+import user2 from "../img/user-2.jpg";
 
 const HoteView = () => {
     return(
@@ -90,7 +92,38 @@ const HoteView = () => {
                     </div>
                 </div>
                 <div className="detail__user-reviews">
-                    user-reviews
+                    <figure className="review">
+                        <blockquote className="review__text">
+                            the hotel is quite exotic and exlusive. it is worth
+                            to spend time and money on it. I cannot recommend it more
+                            than enough.
+                        </blockquote>
+                        <figcaption className="review__user">
+                            <img src={user1} alt="user1" className="review__photo"/>
+                            <div className="review__user-box">
+                                <p className="review__user-name">Piter Pen</p>
+                                <p className="review__user-date">12.12.1212</p>
+                            </div>
+                            <div className="review__rating">8.7</div>
+                        </figcaption>
+                    </figure>
+
+                    <figure className="review">
+                        <blockquote className="review__text">
+                            the hotel is quite exotic and exlusive. it is worth
+                            to spend time and money on it. I cannot recommend it more
+                            than enough.
+                        </blockquote>
+                        <figcaption className="review__user">
+                            <img src={user2} alt="user2" className="review__photo"/>
+                            <div className="review__user-box">
+                                <p className="review__user-name">Alisha</p>
+                                <p className="review__user-date">12.12.2022</p>
+                            </div>
+                            <div className="review__rating">7.7</div>
+                        </figcaption>
+                    </figure>
+                    <button className="btn-inline">show all <span>&rarr;</span></button>
                 </div>
             </div>
         </main>

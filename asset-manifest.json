@@ -1,22 +1,28 @@
 {
   "files": {
-    "main.css": "/flexbox-project/static/css/main.5ecd60fb.chunk.css",
-    "main.js": "/flexbox-project/static/js/main.4f47db89.chunk.js",
-    "main.js.map": "/flexbox-project/static/js/main.4f47db89.chunk.js.map",
+    "main.css": "/flexbox-project/static/css/main.2716a1b1.chunk.css",
+    "main.js": "/flexbox-project/static/js/main.cd38f22c.chunk.js",
+    "main.js.map": "/flexbox-project/static/js/main.cd38f22c.chunk.js.map",
     "runtime-main.js": "/flexbox-project/static/js/runtime-main.a56d417e.js",
     "runtime-main.js.map": "/flexbox-project/static/js/runtime-main.a56d417e.js.map",
-    "static/js/2.725825fb.chunk.js": "/flexbox-project/static/js/2.725825fb.chunk.js",
-    "static/js/2.725825fb.chunk.js.map": "/flexbox-project/static/js/2.725825fb.chunk.js.map",
+    "static/js/2.cc7f5dec.chunk.js": "/flexbox-project/static/js/2.cc7f5dec.chunk.js",
+    "static/js/2.cc7f5dec.chunk.js.map": "/flexbox-project/static/js/2.cc7f5dec.chunk.js.map",
     "index.html": "/flexbox-project/index.html",
-    "precache-manifest.489bb8c47021abb47a26843ef1bbdac1.js": "/flexbox-project/precache-manifest.489bb8c47021abb47a26843ef1bbdac1.js",
+    "precache-manifest.4b916b39904cf1d32095e855306c49f7.js": "/flexbox-project/precache-manifest.4b916b39904cf1d32095e855306c49f7.js",
     "service-worker.js": "/flexbox-project/service-worker.js",
-    "static/css/main.5ecd60fb.chunk.css.map": "/flexbox-project/static/css/main.5ecd60fb.chunk.css.map",
-    "static/js/2.725825fb.chunk.js.LICENSE.txt": "/flexbox-project/static/js/2.725825fb.chunk.js.LICENSE.txt"
+    "static/css/main.2716a1b1.chunk.css.map": "/flexbox-project/static/css/main.2716a1b1.chunk.css.map",
+    "static/js/2.cc7f5dec.chunk.js.LICENSE.txt": "/flexbox-project/static/js/2.cc7f5dec.chunk.js.LICENSE.txt",
+    "static/media/main.scss": "/flexbox-project/static/media/chevron-thin-right.c7fedfa0.svg",
+    "static/media/hotel-1.jpg": "/flexbox-project/static/media/hotel-1.5a550a3d.jpg",
+    "static/media/hotel-2.jpg": "/flexbox-project/static/media/hotel-2.5468a3b1.jpg",
+    "static/media/hotel-3.jpg": "/flexbox-project/static/media/hotel-3.7af5efbc.jpg",
+    "static/media/sprite.svg": "/flexbox-project/static/media/sprite.a1588ef8.svg",
+    "static/media/user.jpg": "/flexbox-project/static/media/user.a2a26d79.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.a56d417e.js",
-    "static/js/2.725825fb.chunk.js",
-    "static/css/main.5ecd60fb.chunk.css",
-    "static/js/main.4f47db89.chunk.js"
+    "static/js/2.cc7f5dec.chunk.js",
+    "static/css/main.2716a1b1.chunk.css",
+    "static/js/main.cd38f22c.chunk.js"
   ]
 }
